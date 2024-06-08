@@ -13,7 +13,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathrynOliveira&hide_progress=true&theme=dracula)
 
-# 💻 Tech Stack
+# 💻 Tecnologias | Habilidades
 <div style"display: inline_block"><br>
   <img align="center" alt="Kathryn-Vue" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Kathryn-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
