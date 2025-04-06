@@ -1,8 +1,5 @@
 # Olá, sou a Kathryn Oliveira 👋
 
-<div style="width: 50">
-</div>
-
 <div align="center">
   <p>Tenho mais de quatro anos de experiência como desenvolvedora full stack, 
     com foco em criar soluções web com PHP, Laravel e Vue. Sou apaixonada por aprender novas tecnologias, 
@@ -11,18 +8,27 @@
   </p>  
 </div>
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathrynOliveira&hide_progress=true&theme=dracula)
 
+
 # 💻 Tecnologias | Habilidades
+### Frontend:
 <div style"display: inline_block"><br>
   <img align="center" alt="Kathryn-Vue" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+ <img align="center" alt="Kathryn-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Kathryn-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Kathryn-Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Kathryn-html" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kathryn-css3" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kathryn-sass" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Kathryn-tailwindcss" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Kathryn-bootstrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Kathryn-vuetify" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg">
+</div>
+
+ ### Backend: 
+<div style"display: inline_block"><br>
   <img align="center" alt="Kathryn-php" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Kathryn-laravel" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="Kathryn-docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
