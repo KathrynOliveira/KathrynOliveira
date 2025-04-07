@@ -1,13 +1,5 @@
 # Olá, sou a Kathryn Oliveira 👋
 
-<div align="center">
-  <p>Tenho mais de quatro anos de experiência como desenvolvedora full stack, 
-    com foco em criar soluções web com PHP, Laravel e Vue. Sou apaixonada por aprender novas tecnologias, 
-    resolver problemas complexos e criar interfaces intuitivas e responsivas. 
-    Meu objetivo é contribuir para o desenvolvimento de projetos inovadores e de alto impacto.
-  </p>  
-</div>
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathrynOliveira&hide_progress=true&theme=dracula)
 
