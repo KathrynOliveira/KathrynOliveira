@@ -12,7 +12,6 @@ Sou uma desenvolvedora full stack apaixonada por criar soluções web inovadoras
 
 <div align="center">
   
-![Kathryn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathrynOliveira&show_icons=true&theme=dracula&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathrynOliveira&layout=compact&theme=dracula&hide_border=true)
 
 </div>
