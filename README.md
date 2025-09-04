@@ -1,39 +1,87 @@
-# Olá, sou a Kathryn Oliveira 👋
+# 👋 Olá! Eu sou a Kathryn Oliveira
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Desenvolvedora+Full+Stack;Apaixonada+por+tecnologia;Sempre+aprendendo+algo+novo!)](https://git.io/typing-svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathrynOliveira&hide_progress=true&theme=dracula)
-
-
-# 💻 Tecnologias | Habilidades
-### Frontend:
-<div style"display: inline_block"><br>
-  <img align="center" alt="Kathryn-Vue" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
- <img align="center" alt="Kathryn-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Kathryn-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Kathryn-Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Kathryn-html" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kathryn-css3" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kathryn-sass" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Kathryn-tailwindcss" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Kathryn-bootstrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Kathryn-vuetify" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg">
 </div>
 
- ### Backend: 
-<div style"display: inline_block"><br>
-  <img align="center" alt="Kathryn-php" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Kathryn-laravel" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  <img align="center" alt="Kathryn-docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Kathryn-git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Kathryn-mysql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Kathryn-sql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
-  <img align="center" alt="Kathryn-postman" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-  <img align="center" alt="Kathryn-jira" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
+## 🚀 Sobre Mim
+
+Sou uma desenvolvedora full stack apaixonada por criar soluções web inovadoras. Tenho experiência tanto no frontend quanto no backend, sempre buscando as melhores práticas e tecnologias mais atuais do mercado.
+
+<div align="center">
+  
+![Kathryn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathrynOliveira&show_icons=true&theme=dracula&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathrynOliveira&layout=compact&theme=dracula&hide_border=true)
+
 </div>
 
-# Contato
+## 🛠️ Skills
 
-<div>
-  <a href="mailto:k.olliver18@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/kathryn-oliveira-988533123/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+### 🎨 Frontend
+<div align="start">
+  <img src="https://skillicons.dev/icons?i=vue,react,js,ts,html,css,sass,tailwind,bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" alt="Vuetify" width="48" height="48"/>
+</div>
+
+### ⚙️ Backend
+<div align="start">
+  <img src="https://skillicons.dev/icons?i=php,laravel" />
+</div>
+
+### 🗄️ Banco de Dados
+<div align="start">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="48" height="48"/>
+</div>
+
+### 🛠️ Ferramentas & DevOps
+<div align="start">
+  <img src="https://skillicons.dev/icons?i=docker,git,postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="48" height="48"/>
+</div>
+
+## 📂 Meus Repositórios
+
+Utilizo um sistema de nomenclatura consistente para facilitar a navegação:
+
+### Estrutura: `[context]-[type]`
+
+| Context | Descrição |
+|---------|-----------|
+| `course` | 📚 Projetos de cursos e tutoriais |
+| `web` | 🌐 Aplicações web completas (fullstack) |
+| `frontend` | 🎨 Interface de usuário de projetos |
+| `backend` | ⚙️ Servidor e lógica de negócios |
+| `api` | 🔗 Serviços e APIs isoladas |
+| `lib` | 📦 Bibliotecas e pacotes reutilizáveis |
+
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kathrynOliveira&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+
+## 📫 Vamos Conversar?
+
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.olliver18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kathryn-oliveira-988533123/)
+
+</div>
+
+---
+
+<div align="center">
+  
+*"O código é poesia em movimento"* ✨
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=kathrynOliveira&label=Visitantes&countColor=%23263759&style=flat)
+
 </div>
