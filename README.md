@@ -43,7 +43,7 @@ Sou uma desenvolvedora full stack apaixonada por criar soluções web inovadoras
 
 ## 📂 Meus Repositórios
 
-Utilizo um sistema de nomenclatura consistente para facilitar a navegação:
+Utilizo um padrão de nomenclatura consistente para os projetos, facilitando a navegação:
 
 ### Estrutura: `[context]-[type]`
 
