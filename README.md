@@ -51,10 +51,11 @@ Utilizo um padrão de nomenclatura consistente para os projetos, facilitando a n
 |---------|-----------|
 | `course` | 📚 Projetos de cursos e tutoriais |
 | `web` | 🌐 Aplicações web completas (fullstack) |
-| `frontend` | 🎨 Interface de usuário de projetos |
+| `frontend` | 🎨 Interface |
 | `backend` | ⚙️ Servidor e lógica de negócios |
 | `api` | 🔗 Serviços e APIs isoladas |
 | `lib` | 📦 Bibliotecas e pacotes reutilizáveis |
+| `game` | 🎮 Jogo web |
 
 
 ## 📊 Estatísticas GitHub
