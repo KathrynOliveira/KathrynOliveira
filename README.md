@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou uma desenvolvedora full stack apaixonada por criar soluções web inovadoras. Tenho experiência tanto no frontend quanto no backend, sempre buscando as melhores práticas e tecnologias mais atuais do mercado.
+Sou uma desenvolvedora Full Stack apaixonada por criar soluções web inovadoras. Tenho experiência tanto no frontend quanto no backend, sempre buscando as melhores práticas e tecnologias mais atuais do mercado.
 
 <div align="center">
   
